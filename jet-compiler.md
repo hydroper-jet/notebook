@@ -2,7 +2,7 @@ JetCompiler
 
 * JetCompiler is embedded with JetPM
   * includeSources includes either a directory or a file by each element
-  * Git and file: dependencies are supported
+  * `git:` and `file:` dependencies and workspaces are supported
 * Compile-time verification phase of each production is similiar to ActionScript 3 and ECMA-357 2nd edition (E4X)
 * JetCompiler should be flexible for allowing other compilers to be built on top of it.
   * File extensions to recognize
